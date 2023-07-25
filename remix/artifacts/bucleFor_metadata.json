@@ -68,11 +68,11 @@
 			]
 		},
 		"remix/bucleFor.sol": {
-			"keccak256": "0x558124d51d19ca17615a82dcfd16bb568a49f847e59fb47735fad9b8dde0617b",
+			"keccak256": "0x94f77cd104ddf51badbb75a3b36ed3bc51a1279f88f55d86bbfb8668a68b5f87",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b8091b42af473efe96b602d76160968e3e161d84e32badbb01b42647f053182c",
-				"dweb:/ipfs/Qmbm216SVgmRx97LY2iMMCyrfm4FqA4fvFMXwe3NKMsnAH"
+				"bzz-raw://4807389c01fc08742d12efd8e4913406927078874b921a1ee3988a3d33c2de95",
+				"dweb:/ipfs/QmUgWdZ3j2iYy7XhBeJADC3wFmT1dt2VWQDxkpJuE41gYa"
 			]
 		}
 	},

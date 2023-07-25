@@ -16,6 +16,6 @@ contract bucleFor {
         {
             console.log(i);
         }
-        return "EXITOSO.";
+        return "EXITOSO";
     }
 }
